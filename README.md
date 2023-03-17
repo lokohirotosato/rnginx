@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
