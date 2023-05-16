@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Rename model_id to model.id (#8447)
