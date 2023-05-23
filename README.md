@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update format.yml to pull_request_target (#7460)
