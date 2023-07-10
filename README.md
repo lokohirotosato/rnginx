@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
