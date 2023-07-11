@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Merge pull request #22 from SkalskiP/patch-1
