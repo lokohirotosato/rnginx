@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add NCNN Docs Integrations Page (#8562)
