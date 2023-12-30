@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix OpenVINO missing batch-size bug (#9264)
