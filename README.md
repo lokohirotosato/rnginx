@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Resize angle, count, and stage on keypoint number change (#7598)
