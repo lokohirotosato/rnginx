@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+docs: update view-results-in-terminal.md (#66)
